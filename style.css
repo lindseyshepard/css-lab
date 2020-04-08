@@ -34,6 +34,8 @@ main {
     margin-left: auto;
     margin-right: auto;
     width: 960px;
+    position: relative;
+    height: 1320px;
 }
 
 
@@ -70,7 +72,7 @@ article {
 }
 
 article p {
-    height: 200px;
+    height: 365px;
     overflow: scroll;
     /* overflow: scroll; or auto */
 }
@@ -87,9 +89,6 @@ button:hover {
 footer {
     background-color: darkgray;
     height: 100px;
-    display: block;
-    position: absolute;
-    bottom: 0;
 }
 
 
