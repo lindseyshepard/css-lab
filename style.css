@@ -87,8 +87,10 @@ button:hover {
 }
 
 footer {
+    clear: both;
     background-color: darkgray;
     height: 100px;
+    width: 100%;
 }
 
 
