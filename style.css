@@ -78,7 +78,6 @@ article p {
 button {
     background: #111;
     color: #fff;
-    ;
 }
 
 button:hover {
@@ -88,6 +87,9 @@ button:hover {
 footer {
     background-color: darkgray;
     height: 100px;
+    display: block;
+    position: absolute;
+    bottom: 0;
 }
 
 
